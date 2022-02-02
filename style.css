@@ -22,9 +22,39 @@ h1 {
 }
 
 button {
-  margin-top: 5px;
+  margin: 0px;
+  padding: 0;
 }
 
-input {
+/* input {
   padding: 2px;
+} */
+
+.line1,
+.line2,
+.line3 {
+  display: block;
+  padding: 5px;
+  margin-left: 0;
+  width: fit-content;
+}
+
+label {
+  text-align: justify;
+}
+
+#rate,
+#principal,
+#years {
+  margin-left: 80px;
+  margin-right: 0px;
+}
+
+#rate {
+  width: 120px;
+  margin-left: 45px;
+}
+
+#years {
+  margin-left: 50px;
 }
