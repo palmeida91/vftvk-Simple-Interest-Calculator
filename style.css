@@ -15,11 +15,10 @@ h1 {
   padding: 20px;
   border-radius: 25px;
   margin: auto;
-  text-align: justify;
 }
 
 .center {
-  margin-left: 80px;
+  padding-left: 80px;
 }
 
 button {
